@@ -7,6 +7,7 @@ I'm trained in Ruby & Ruby on Rails, JS, HTML/CSS, Git and GitHub thanks to Le W
 Already 2️⃣ delivered projects for Le Wagon:
 
 🚀 MamieExpress: https://mamieexpress.herokuapp.com
+
 🚀 Buddy-bot: https://www.awesomescreenshot.com/video/6309521?key=164e5ff41d72b5a399e7fd99187858a9
 
 As my training at Le Wagon is over, I starting to learn by myself, by reading Ruby on Rails Tutorial 📖.
