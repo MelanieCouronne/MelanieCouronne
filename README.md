@@ -10,5 +10,6 @@ Already 2️⃣ delivered projects for Le Wagon:
 
 🚀 Buddy-bot: https://www.awesomescreenshot.com/video/6309521?key=164e5ff41d72b5a399e7fd99187858a9
 
-As my training at Le Wagon is over, I starting to learn by myself, by reading Ruby on Rails Tutorial 📖.
+As my training at Le Wagon is over, I'm starting to learn by myself, by reading Ruby on Rails Tutorial 📖.
+
 I'm also looking for good advices 💬 about RSPEC, so do not hesitate to send me an email at melanie.couronne@gmail.com to share your experience 🤝.
