@@ -4,7 +4,7 @@ I'm Mélanie! After 20 years as a Stadium Manager and Event Manager in Bordeaux,
 
 I'm trained in Ruby & Ruby on Rails, JS, HTML/CSS, Git and GitHub thanks to Le Wagon Bordeaux.
 
-Already 2️⃣ delivered projects for Le Wagon, in collaboration with chrismarchand and matthieu-laumet:
+Already 2️⃣ delivered projects for Le Wagon, in collaboration 🤝 with chrismarchand and matthieu-laumet:
 
 🚀 MamieExpress: https://mamieexpress.herokuapp.com
 
@@ -12,4 +12,4 @@ Already 2️⃣ delivered projects for Le Wagon, in collaboration with chrismarc
 
 As my training at Le Wagon is over, I'm starting to learn by myself, by reading Ruby on Rails Tutorial 📖.
 
-I'm also looking for good advices 💬 about RSPEC, so do not hesitate to send me an email at melanie.couronne@gmail.com to share your experience 🤝.
+I'm also looking for good advices 💬 about RSPEC, so do not hesitate to send me an email at melanie.couronne@gmail.com to share your experience 🎯.
