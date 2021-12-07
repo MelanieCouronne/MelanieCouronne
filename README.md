@@ -14,8 +14,9 @@ As my training at Le Wagon is over, I'm starting to learn by myself, by reading 
 
 I'm also looking for good advices 💬 about RSPEC, so do not hesitate to send me an email at melanie.couronne@gmail.com to share your experience 🎯.
 
-
+```bash
 ~ Languages and tools ~
+```
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
