@@ -4,7 +4,7 @@ I'm Mélanie! After 20 years as a Stadium Manager and Event Manager in Bordeaux,
 
 I'm trained in Ruby & Ruby on Rails, JS, HTML/CSS, Git and GitHub thanks to Le Wagon Bordeaux.
 
-Already 2️⃣ delivered projects for Le Wagon:
+Already 2️⃣ delivered projects for Le Wagon, in collaboration with chrismarchand and matthieu-laumet:
 
 🚀 MamieExpress: https://mamieexpress.herokuapp.com
 
