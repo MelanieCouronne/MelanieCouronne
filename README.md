@@ -12,7 +12,7 @@ Already 2️⃣ delivered projects for Le Wagon, in collaboration 🤝 with [chr
 
 As my training at Le Wagon is over, I'm starting to learn by myself! 🌱 To start, here is my first responsive profile page 👇🏻
 
-👤 [Profile](https://melaniecouronne.github.io/responsive_profile_page/)
+👤 [Responsive profile page](https://melaniecouronne.github.io/responsive_profile_page/)
 
 I'm also looking for good advices 💬 about RSPEC, so do not hesitate to send me an email at melanie.couronne@gmail.com to share your experience 🎯.
 
