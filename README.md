@@ -1,20 +1,27 @@
 Hi! 👋 
 
-I'm Mélanie! After 20 years as a Stadium Manager and Event Manager in Bordeaux, Paris and Lille, I'm finally starting a new career challenge in web development, as a junior!
+I'm Mélanie! After 20 years as a Stadium Manager and Event Manager in Bordeaux, Paris and Lille, I'm finally starting a new career challenge in web development!
 
-I'm trained in Ruby & Ruby on Rails, JS, HTML/CSS, Git and GitHub thanks to Le Wagon Bordeaux.
+I'm trained in Ruby & Ruby on Rails, JS, HTML/CSS, Git, GitHub, PostgreSQL, Heroku thanks to Le Wagon Bordeaux.
 
-Already 2️⃣ delivered projects for Le Wagon, in collaboration 🤝 with [chrismarchand](https://github.com/chrismarchand) and [matthieu-laumet](https://github.com/matthieu-laumet):
+As my training at Le Wagon is over, I'm starting to learn by myself!
+🌱 To start, here is my first responsive profile page + a simple page to test Tailwind CSS and Hotwire 👇🏻
 
-🚀 [MamieExpress](https://mamieexpress.herokuapp.com)
+👩🏻‍🎤 Personal projects:
 
-🚀 [Buddy-bot](https://www.awesomescreenshot.com/video/6309521?key=164e5ff41d72b5a399e7fd99187858a9)
+- [Tailwind and Hotwire page](https://tailwind-and-hotwire-page.herokuapp.com/): Ruby on rails, 100% Tailwind CSS, Hotwire and Stimulus
 
-As my training at Le Wagon is over, I'm starting to learn by myself! 🌱 To start, here is my first responsive profile page 👇🏻
+- [Responsive profile page](https://melaniecouronne.github.io/responsive_profile_page/): responsive page in vanilla HTML/CSS and JavaScript
 
-👤 [Responsive profile page](https://melaniecouronne.github.io/responsive_profile_page/)
 
-I'm also looking for good advices 💬 about RSPEC, so do not hesitate to send me an email at melanie.couronne@gmail.com to share your experience 🎯.
+🧑‍🎓 Study projects:
+
+- [Buddy-bot](https://www.awesomescreenshot.com/video/6309521?key=164e5ff41d72b5a399e7fd99187858a9): Slack API, Ruby on rails, Cloudinary, Devise, HTML/SCSS, JS, PostgreSQL and Heroku
+
+- [MamieExpress](https://mamieexpress.herokuapp.com): Ruby on rails, Geocoder, Cloudinary, Pundit, Devise, HTML/SCSS, JS, PostgreSQL and Heroku
+
+🎯 My goal is to learn as much as possible about TDD, React, TypeScript, Node, Symphony... Yes, I'm passionate and I like to learn!
+I'm also looking for good advices 💬 about "must-read books", so do not hesitate to send me an email at melanie.couronne@gmail.com to share your experience.
 
 ```bash
 Languages and tools:
