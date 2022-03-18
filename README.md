@@ -5,6 +5,7 @@ I'm Mélanie! After 20 years as a Stadium Manager and Event Manager in Bordeaux,
 I'm trained in Ruby & Ruby on Rails, JS, HTML/CSS, Git, GitHub, PostgreSQL, Heroku thanks to Le Wagon Bordeaux.
 
 As my training at Le Wagon is over, I'm starting to learn by myself!
+
 🌱 To start, here is my first responsive profile page + a simple page to test Tailwind CSS and Hotwire 👇🏻
 
 👩🏻‍🎤 Personal projects:
@@ -21,7 +22,9 @@ As my training at Le Wagon is over, I'm starting to learn by myself!
 - [MamieExpress](https://mamieexpress.herokuapp.com): Ruby on rails, Geocoder, Cloudinary, Pundit, Devise, HTML/SCSS, JS, PostgreSQL and Heroku
 
 🎯 My goal is to learn as much as possible about TDD, React, TypeScript, Node, Symphony... Yes, I'm passionate and I like to learn!
+
 I'm also looking for good advices 💬 about "must-read books", so do not hesitate to send me an email at melanie.couronne@gmail.com to share your experience.
+
 
 ```bash
 Languages and tools:
