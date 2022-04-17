@@ -6,22 +6,27 @@ I'm trained in Ruby & Ruby on Rails, JS, HTML/CSS, Git, GitHub, PostgreSQL, Hero
 
 As my training at Le Wagon is over, I'm starting to learn by myself!
 
-🌱 To start, here is my first responsive profile page + a simple page to test Tailwind CSS and Hotwire 👇🏻
+🌱 To start, here is my first responsive profile page + a simple page to test Tailwind CSS and Hotwire + a guess who game 👇🏻
 
+```bash
 👩🏻‍🎤 Personal projects:
+```
+- [Responsive profile page](https://melaniecouronne.github.io/responsive_profile_page/): responsive page in vanilla HTML/CSS and JavaScript
+
+- [Guess who](https://guesswho-game.herokuapp.com/): Ruby on rails, CSS-HTML, JS and PostgreSQL
 
 - [Tailwind and Hotwire page](https://tailwind-and-hotwire-page.herokuapp.com/): Ruby on rails, 100% Tailwind CSS, Hotwire and Stimulus
 
-- [Responsive profile page](https://melaniecouronne.github.io/responsive_profile_page/): responsive page in vanilla HTML/CSS and JavaScript
 
-
+```bash
 🧑‍🎓 Study projects:
-
+```
 - [Buddy-bot](https://www.awesomescreenshot.com/video/6309521?key=164e5ff41d72b5a399e7fd99187858a9): Slack API, Ruby on rails, Cloudinary, Devise, HTML/SCSS, JS, PostgreSQL and Heroku
 
 - [MamieExpress](https://mamieexpress.herokuapp.com): Ruby on rails, Geocoder, Cloudinary, Pundit, Devise, HTML/SCSS, JS, PostgreSQL and Heroku
 
-🎯 My goal is to learn as much as possible about TDD, React, TypeScript, Node, Symphony... Yes, I'm passionate and I like to learn!
+
+🎯 My goal is to learn as much as possible about TDD, React, TypeScript, Node... Yes, I'm passionate and I like to learn!
 
 I'm also looking for good advices 💬 about "must-read books", so do not hesitate to send me an email at melanie.couronne@gmail.com to share your experience.
 
