@@ -11,7 +11,7 @@ As my training at Le Wagon is over, I'm starting to learn by myself!
 ```bash
 👩🏻‍🎤 Personal projects:
 ```
-- [Guess who](https://guesswho-game.herokuapp.com/): Ruby on rails, CSS-HTML, JS and PostgreSQL
+- [Guess who](http://www.guesswho.fun/): Ruby on rails, CSS-HTML, JS and PostgreSQL
 
 - [Tailwind and Hotwire page](https://tailwind-and-hotwire-page.herokuapp.com/): Ruby on rails, 100% Tailwind CSS, Hotwire and Stimulus
 
