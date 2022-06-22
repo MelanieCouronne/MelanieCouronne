@@ -13,7 +13,7 @@ As my training at Le Wagon is over, I'm starting to learn by myself!
 ```
 - [Guess who](http://www.guesswho.fun/): Ruby on rails, CSS-HTML, JS and PostgreSQL
 
-- [Tailwind and Hotwire page](https://tailwind-and-hotwire-page.herokuapp.com/): Ruby on rails, 100% Tailwind CSS, Hotwire and Stimulus
+- [Tailwind and Hotwire page](http://www.tailwind-test.fun): Ruby on rails, 100% Tailwind CSS, Hotwire and Stimulus
 
 - [Responsive profile page](https://melaniecouronne.github.io/responsive_profile_page/): responsive page in vanilla HTML/CSS and JavaScript
 
